@@ -21,4 +21,5 @@ public interface IHHYCircuitBreakerController {
      * @return
      */
     boolean exist(int methodHashCode);
+
 }
